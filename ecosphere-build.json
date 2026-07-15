@@ -1,0 +1,24 @@
+{
+  "generator": "ecosphere-next",
+  "siteId": null,
+  "siteName": "EOS Build Test 1784087642915",
+  "builtAt": "2026-07-15T03:54:14.383Z",
+  "sections": 2,
+  "files": [
+    ".gitignore",
+    "app/_generated/section-0.tsx",
+    "app/_generated/section-1.tsx",
+    "app/globals.css",
+    "app/layout.tsx",
+    "app/page.tsx",
+    "ecosphere-build.json",
+    "next.config.mjs",
+    "package.json",
+    "postcss.config.mjs",
+    "tailwind.config.ts",
+    "tsconfig.json",
+    "vercel.json"
+  ],
+  "overlay": "https://ecosphere.ecodia.au/preview-editor.js",
+  "fingerprint": "40c4f942a498e2f6dbb977c0bc9bb4deb288df62f3a157437370081d684864b4"
+}
